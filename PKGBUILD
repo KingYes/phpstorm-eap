@@ -3,6 +3,8 @@
 # Contributor: D. Can Celasun <dcelasun[at]gmail[dot]com>
 # Contributor: Slava Volkov <sv99sv[at]gmail[dot]com>
 # Contributor: Patrik Votoček <patrik[at]votocek[dot]cz>
+# 
+# GitHub Repo: https://github.com/KingYes/phpstorm-eap
 
 pkgname=phpstorm-eap
 _pkgname=PhpStorm # Directory name in the tar file
